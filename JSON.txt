@@ -1,0 +1,32 @@
+{
+	"list": {
+		"person1": {
+			"name": ":Adam Martin",
+			"CNP": ":195230545698",
+			"city": ":Bucuresti",
+			"adress": ":Liviu Rebreanu no.5,ap.20",
+			"contact": ":Tel:07471522363,E-mail:a.martin@yahoo.com, Instagram:Adrian Martin"
+		},
+		"person2": {
+			"name": ":Maria Maru",
+			"CNP": ":292120545693",
+			"city": ":Las Vegas",
+			"adress": ":St.Avenue no.12,ap.12",
+			"contact": ":Tel:01700200151,E-mail:maria.maru@gmail.com,Instagram:Maria Maru"
+		},
+		"person3": {
+			"name": ":Mark Adams",
+			"CNP": ":190230659878",
+			"city": ":New York",
+			"adress": ":St.George no.05,ap.120",
+			"date": "Tel:01200562301,E-mail:adams.mark@gmail.com, Instagram:Adams M"
+		},
+		"person4": {
+			"name": ":Martha Stewaart",
+			"CNP": ":299101023659",
+			"city": ":Berlin",
+			"adress": ":Hauptstraße no.50,ap.2",
+			"date": "Tel:0152356899,E-mail:MarthaStew@gmail.com,Instagram:Martha Stewaart"
+		}
+	}
+}
